@@ -101,21 +101,17 @@
 
 #### Other Components
 
-##### 20x20mm Alumminum Extrusion
+##### Coil
 
-Our main frame of the trebuchet was built using 20x20mm alumminum extrusion that we found in the back of the lab. Originally, we planned on buying wooden planks but upon finding these we figured they were a much better option considering they were significantly smaller yet very strong. To construct our frame, we cut this extrusion into 1100mm, 800mm, 600mm, 400mm, and 207mm lengths. 
 
 ##### Nuts & Bolts
 
-To connect the alumminum extrusion to our various laser cut and 3D printed components, we used M5 6mm bolts and M5 T-slot nuts that we found with the alumminum extrusion. These nuts and bolts allowed us to have incredibly secure connection between parts and helped us achieve a very rigid trebuchet structure. 
 
 ##### Bearings
 
-To make sure that our pivot arm had smooth movement, we decided to incorporate bearing into our design. We ended up using 30x47x9mm bearings as they allowed for the extrusion to fit inside of them with a bit of wiggle room, meaning we could design and use a piece like the axle capt to make sure the beams were able to rotate freely inside the bearings.
 
 ##### Steel Rod
 
-We used 5mm steel rod for the finger as well as to hold our counterweight string as it had a small diameter and could hold quite a bit of weight. Additionally, these rods were comically difficult to cut; first, we tried using a hacksaw but this barely left a mark on the rod. Instead, asked for assistance from Mr. Helmstetter and Dr. Shields and ended up using a electric hacksaw. Even with this, the rod barely cut; it actually melted from friction between the blade and the rod before it cut. Eventually, we were able to successfully cut one of the rods and were able to use them for the finger swivel. 
 
 #### Full Generator Assembly
 
