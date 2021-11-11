@@ -31,9 +31,9 @@
 
 ## Generator Design
 <p float="left">
-  <img src="Media/Planning/Center_Ring_of_Solenoids.png" Height="225">
-  <img src="Media/Planning/Magnet_Plate.PNG" Height="225">
-  <img src="Media/Planning/bearing_face_diagram.PNG" Height="225">
+  <img src="Media/Planning/Center_Ring_of_Solenoids.png" Height="200">
+  <img src="Media/Planning/Magnet_Plate.PNG" Height="200">
+  <img src="Media/Planning/bearing_face_diagram.PNG" Height="200">
 </p>
 
 
@@ -44,7 +44,7 @@
 
 #### Assembly
 <p float="left">
-  <img src="media/AssemblyWithoutTopCircle.png" Height="225">
+  <img src="media/AssemblyWithoutTopCircle.png" Height="200">
   <img src="media/AssemblyWithoutBottomCircle.png" Height="225">
   <img src="media/FullAssembly.png" Height="225">
   <img src="media/Assembly_Labeled_picture.png" Height="225">
