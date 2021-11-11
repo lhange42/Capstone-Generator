@@ -31,8 +31,9 @@
 
 ## Generator Design
 <p float="left">
-  <img src="media/AssemblyWithoutTopCircle.png" Height="225">
-  <img src="media/AssemblyWithoutBottomCircle.png" Height="225">
+  <img src="Media/Planning/Center_Ring_of_Solenoids.png" Height="225">
+  <img src="Media/Planning/Magnet_Plate.PNG" Height="225">
+  <img src="Media/Planning/bearing_face_diagram.png" Height="225">
 </p>
 
 
