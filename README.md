@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Trebuchet Design](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#trebuchet-design)
+- [Generator Design](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#trebuchet-design)
   * [Ratios](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#ratios)
   * [Simulation](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#simulation)
 - [CAD](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#cad)
@@ -29,11 +29,7 @@
   * [Trebuchet](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#trebuchet)
 - [Results and Overall Reflections](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#results-and-overall-reflections)
 
-## Trebuchet Design
-
-### Ratios
-
-The two most important ratios for trebuchet design are the arm ratio and the weight ratio. To optimize launch distance, the ratio between the short arm and the long arm must be ```5:1```. For our trebuchet, we opted for a long arm of 900mm and a short arm of 180mm, giving us this ```5:1``` ratio. Additionally, the ratio between the payload and the counterweight must be roughly ```133:1```. This means that if our launch capsule was 1 pound, our counterweight would have to be 133 pounds. During our assembly phase of the capsule, we found that the capsule, when loaded with all the proper components, weighed about 135 grams. This means that our counterweight would have to weigh somewhere between 30 and 40 pounds as ```135 * 133 = 17955 grams or ~39.5 pounds```. We decided to use a counterweight with a weight of 35 pounds because we felt like this would still give us decent launch distance without physically straining our trebuchet structure.
+## Generator Design
 
 
 
