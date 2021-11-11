@@ -30,7 +30,10 @@
 - [Results and Overall Reflections](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#results-and-overall-reflections)
 
 ## Generator Design
-
+<p float="left">
+  <img src="media/AssemblyWithoutTopCircle.png" Height="225">
+  <img src="media/AssemblyWithoutBottomCircle.png" Height="225">
+</p>
 
 
 ## CAD
