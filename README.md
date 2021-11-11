@@ -31,9 +31,9 @@
 
 ## Generator Design
 <p float="left">
-  <img src="Media/Planning/Center_Ring_of_Solenoids.png" Height="200">
-  <img src="Media/Planning/Magnet_Plate.PNG" Height="200">
-  <img src="Media/Planning/bearing_face_diagram.PNG" Height="200">
+  <img src="Media/Planning/Center_Ring_of_Solenoids.png" Height="175">
+  <img src="Media/Planning/Magnet_Plate.PNG" Height="175">
+  <img src="Media/Planning/bearing_face_diagram.PNG" Height="175">
 </p>
 
 
