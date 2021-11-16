@@ -36,6 +36,7 @@
   <img src="Media/Planning/bearing_face_diagram.PNG" Height="175">
 </p>
 ### Description of Assembly
+The first picture on the left is showing the center of the generator which will be composed of two laser cut plates and 8 solenoids. These solenoids will be held in place by the circular slots in the laser cut piece that will equal the radius of the smaller section of the solenoid. The two laser cut plates will be screwed together so the solenoids are tightly held in between them. The second picture is a sheet of laser cut material and the thickness of the laser cut material is the exact same as the magnets
 
 
 
