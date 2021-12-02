@@ -55,6 +55,13 @@ A circuit divider basically is a system of two resistors in which if you positio
 
 #### Components 
 
+##### Coil Mold
+<p float="left">
+	<img src="Media/CAD/Coil_Assembly.PNG" Height="200">
+	<img src="Media/CAD/Coil_Caps.PNG" Height="200">
+	<img src="Media/CAD/Coil_Center.PNG" Height="200">
+</p>
+
 #### Assembly
 <p float="left">
   <img src="media/AssemblyWithoutTopCircle.png" Height="200">
