@@ -10,7 +10,7 @@
     + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#top-sphere)
     + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#bottom-sphere)
     + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#components)
-    	*[Piece](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#capsule)
+    	+[Piece](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#capsule)
     + [Assembly](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#assembly)
     + [Reflections](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#reflections)
   * [Assembly](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#trebuchet)
