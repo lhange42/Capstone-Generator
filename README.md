@@ -6,13 +6,14 @@
   * [Assembly](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#description-of-assembly)
   * [Research](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#research)
 - [CAD](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#cad)
-  * [Box](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#capsule)
+  * [Components](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#capsule)
     + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#top-sphere)
     + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#bottom-sphere)
     + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#components)
+    	*[Piece](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#capsule)
     + [Assembly](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#assembly)
     + [Reflections](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#reflections)
-  * [Generator](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#trebuchet)
+  * [Assembly](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#trebuchet)
     + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#basic-joints-and-connection-pieces)
     + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#3d-printed-joints)
     + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#finger-piece)
@@ -52,8 +53,9 @@ A circuit divider basically is a system of two resistors in which if you positio
 
 ## CAD
 
-#### Components
-
+### Components
+#### Box
+#### Generator
 ##### Coil Mold
 <p float="left">
 	<img src="Media/CAD/Coil_Assembly.PNG" Height="200">
@@ -65,7 +67,7 @@ A circuit divider basically is a system of two resistors in which if you positio
 
 This is going to be used to form our coils. They are constructible solenoids with detachable ends. We plan on them being attachable to drills so we can spin and coil the solenoid. Then once the coil is made and fastened together so it doesn’t become uncoiled we can detach the ends by rotating them until the slot lines up and then its just constructed around the center that we can detach.
 
-#### Assembly
+### Assembly
 <p float="left">
   <img src="media/AssemblyWithoutTopCircle.png" Height="200">
   <img src="media/AssemblyWithoutBottomCircle.png" Height="225">
