@@ -13,6 +13,10 @@
     + [Box Assebly](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#basic-joints-and-connection-pieces)
     + [Generator Assembly](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#3d-printed-joints)
   * [Other Components](https://github.com/lhange42/Capstone-Generator#assembly)	
+    + [Nuts & Bolts](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#nuts--bolts)
+    + [Bearings](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#bearings)
+    + [Steel Rod](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#steel-rod)
+    + [Steel Rod](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#steel-rod)
 - [Code](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#code)
   * [FuncAngleOMeter](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#funcangleometer)
   * [Index](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#index)
@@ -69,9 +73,6 @@ This is going to be used to form our coils. They are constructible solenoids wit
 
 ### Other Components
 
-#### Coil
-
-
 #### Nuts & Bolts
 
 
@@ -81,7 +82,7 @@ This is going to be used to form our coils. They are constructible solenoids wit
 #### Steel Rod
 
 
-#### Full Assembly
+### Full Assembly
 
 <img align="right" src="media/trebuchetannotatedpic.png" width="600">
 
