@@ -6,21 +6,13 @@
   * [Assembly](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#description-of-assembly)
   * [Research](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#research)
 - [CAD](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#cad)
-  * [Components](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#capsule)
-    + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#top-sphere)
-    + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#bottom-sphere)
-    + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#components)
-    	+[Piece](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#capsule)
-    + [Assembly](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#assembly)
-    + [Reflections](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#reflections)
-  * [Assembly](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#trebuchet)
-    + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#basic-joints-and-connection-pieces)
-    + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#3d-printed-joints)
-    + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#finger-piece)
-    + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#release-mechanism)
-    + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#axle-cap)
-    + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#other-components)
-    + [Part not made](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#full-trebuchet-assembly)
+  * [Parts](https://github.com/lhange42/Capstone-Generator#parts)
+    + [Box Parts](https://github.com/lhange42/Capstone-Generator#box)
+    + [Generator Partss](https://github.com/lhange42/Capstone-Generator#generator)
+  * [Assembly](https://github.com/lhange42/Capstone-Generator#assembly)
+    + [Box Assebly](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#basic-joints-and-connection-pieces)
+    + [Generator Assembly](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#3d-printed-joints)
+  * [Other Components](https://github.com/lhange42/Capstone-Generator#assembly)	
 - [Code](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#code)
   * [FuncAngleOMeter](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#funcangleometer)
   * [Index](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#index)
@@ -53,7 +45,7 @@ A circuit divider basically is a system of two resistors in which if you positio
 
 ## CAD
 
-### Components
+### Parts
 #### Box
 #### Generator
 ##### Coil Mold
@@ -68,81 +60,28 @@ A circuit divider basically is a system of two resistors in which if you positio
 This is going to be used to form our coils. They are constructible solenoids with detachable ends. We plan on them being attachable to drills so we can spin and coil the solenoid. Then once the coil is made and fastened together so it doesn’t become uncoiled we can detach the ends by rotating them until the slot lines up and then its just constructed around the center that we can detach.
 
 ### Assembly
-<p float="left">
-  <img src="media/AssemblyWithoutTopCircle.png" Height="200">
-  <img src="media/AssemblyWithoutBottomCircle.png" Height="225">
-  <img src="media/FullAssembly.png" Height="225">
-  <img src="media/Assembly_Labeled_picture.png" Height="225">
-</p>
 
+#### Box
 
-<br>
-
-#### Reflections 
-
-
----
-
-### Generator
-
-#### Basic Joints and Connection Pieces
-
-<p float="left">
-  <img src="media/oldjointpic.png" height="200">
-  <img src="media/bracket68pic.png" height="200">
-  <img src="media/twowaybracketpic.png" height="200">
-  <img src="media/middlebracketpic.png" height="200">
-</p>
+#### Generator
 
 
 
-#### 3D Printed Joints
+### Other Components
 
-<p float="left">
-  <img src="media/bearingjointpic.png" height="300">
-  <img src="media/bearingjointpic2.png" height="300">
-  <img src="media/counterweightjointpic.png" height="300">
-</p>
-
-#### part
-
-<p float="left">
-  <img src="media/fingerpiecepic.png" height="340">
-  <img src="media/fingerswivelpic.png" height="340">
-  <img src="media/fingerassemblypic1.png" height="340">
-  <img src="media/fingerassemblypic2.png" height="340">
-</p>
+#### Coil
 
 
-
-#### part
-
-<p float="left">
-  <img src="media/releasemechpic1.png" height="300">
-  <img src="media/releasemechpic2.png" height="300">
-</p>
+#### Nuts & Bolts
 
 
-#### part
-
-<img src="media/axlecappic.png" height="200">
+#### Bearings
 
 
-#### Other Components
-
-##### Coil
+#### Steel Rod
 
 
-##### Nuts & Bolts
-
-
-##### Bearings
-
-
-##### Steel Rod
-
-
-#### Full Generator Assembly
+#### Full Assembly
 
 <img align="right" src="media/trebuchetannotatedpic.png" width="600">
 
