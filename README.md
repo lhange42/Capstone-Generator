@@ -55,12 +55,15 @@ A circuit divider basically is a system of two resistors in which if you positio
 
 #### Components 
 
-##### Coil Mold
+##### Box
+###### Coil Mold
 <p float="left">
 	<img src="Media/CAD/Coil_Assembly.PNG" Height="200">
 	<img src="Media/CAD/Coil_Caps.PNG" Height="200">
 	<img src="Media/CAD/Coil_Center.PNG" Height="200">
 </p>
+####### Description
+This is going to be used to form our coils. They are constructible solenoids with detachable ends. We plan on them being attachable to drills so we can spin and coil the solenoid. Then once the coil is made and fastened together so it doesn’t become uncoiled we can detach the ends by rotating them until the slot lines up and then its just constructed around the center that we can detach.
 
 #### Assembly
 <p float="left">
