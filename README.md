@@ -69,8 +69,12 @@ This is going to be used to form our coils. They are constructible solenoids wit
 
 #### Generator
 
-
-
+##### Magnet Plate
+<p float="left">
+	<img src="Media/CAD/Magnet_Plate.PNG" Height="200">
+</p>
+###### Description
+	This is our magnet plate design we have the center holes for an axle and the axle hub this will help us ensure that the axle is fixed in its position. The axle hole is the one at the exact center that's larger and the axle hub holes are the 4 smaller holes meant for screws that closely surround the center axle hole. It has 8 holes for the magnets and since we are stacking magnets we will also be stacking our magnet plates this ensures that the width of the laser cut acrylic magnet plates is the same width.
 ### Other Components
 
 #### Nuts & Bolts
