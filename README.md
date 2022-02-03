@@ -63,6 +63,8 @@ A circuit divider basically is a system of two resistors in which if you positio
 
 This is going to be used to form our coils. They are constructible solenoids with detachable ends. We plan on them being attachable to drills so we can spin and coil the solenoid. Then once the coil is made and fastened together so it doesn’t become uncoiled we can detach the ends by rotating them until the slot lines up and then its just constructed around the center that we can detach.
 
+##### Coil Plate
+
 ### Assembly
 
 #### Box
@@ -90,19 +92,6 @@ We will need bearings in order to have the axle also connected to the box sides 
 
 For this project we are going to have to have an axle of rotation and the best way of doing this is by ordering an actual axle. So for our design we need two axle hubs and one axle. The 2 axle hubs are going to be connected to each magnet plate so that they ensure that they spin with the axle. So how the axle hub works is that it is a ring that will surroind the axle and be screwed into whatever you are trying to get to spin with the axle and then the axle hub has a horizontal screw slot that screws against the axle holding it in place, it's called a set screw for that purpose.
 
-### Full Assembly
-
-<img align="right" src="media/trebuchetannotatedpic.png" width="600">
-
-
-
-<p float="left">
-  <img src="media/fulltrebuchetpic1.png" height="260">
-  <img src="media/fulltrebuchetpic2.png" height="260">
-  <img src="media/fulltrebuchetpic3.png" height="260">
-  <img src="media/fulltrebuchetpic4.png" height="260">
-  <img src="media/fulltrebuchetpic5.png" height="260">
-</p>
 
 ---
 
