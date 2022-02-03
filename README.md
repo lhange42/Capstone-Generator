@@ -73,7 +73,9 @@ This is going to be used to form our coils. They are constructible solenoids wit
 <p float="left">
 	<img src="Media/CAD/Magnet_Plate.PNG" Height="200">
 </p>
+
 ###### Description
+
 This is our magnet plate design we have the center holes for an axle and the axle hub this will help us ensure that the axle is fixed in its position. The axle hole is the one at the exact center that's larger and the axle hub holes are the 4 smaller holes meant for screws that closely surround the center axle hole. It has 8 holes for the magnets and since we are stacking magnets we will also be stacking our magnet plates this ensures that the width of the laser cut acrylic magnet plates is the same width.
 ### Other Components
 
@@ -82,9 +84,11 @@ This is our magnet plate design we have the center holes for an axle and the axl
 
 #### Bearings
 
+We will need bearings in order to have the axle also connected to the box sides but still spin. Since the magnet plates are only mounted to the axle these bearing are needed to make the system complete. The center coils are connected to the box sides so then it ensures that everything is connected.
 
-#### Steel Rod
+#### Axle & Axle Hubs
 
+For this project we are going to have to have an axle of rotation and the best way of doing this is by ordering an actual axle. So for our design we need two axle hubs and one axle. The 2 axle hubs are going to be connected to each magnet plate so that they ensure that they spin with the axle. So how the axle hub works is that it is a ring that will surroind the axle and be screwed into whatever you are trying to get to spin with the axle and then the axle hub has a horizontal screw slot that screws against the axle holding it in place, it's called a set screw for that purpose.
 
 ### Full Assembly
 
