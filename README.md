@@ -8,7 +8,7 @@
 - [CAD](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#cad)
   * [Parts](https://github.com/lhange42/Capstone-Generator#parts)
     + [Box Parts](https://github.com/lhange42/Capstone-Generator#box)
-    + [Generator Partss](https://github.com/lhange42/Capstone-Generator#generator)
+    + [Generator Parts](https://github.com/lhange42/Capstone-Generator#generator)
   * [Assembly](https://github.com/lhange42/Capstone-Generator#assembly)
     + [Box Assebly](https://github.com/lhange42/Capstone-Generator#box-1)
     + [Generator Assembly](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#3d-printed-joints)
