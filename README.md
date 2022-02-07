@@ -81,7 +81,8 @@ This is going to be used to form our coils. They are constructible solenoids wit
 This is our magnet plate design we have the center holes for an axle and the axle hub this will help us ensure that the axle is fixed in its position. The axle hole is the one at the exact center that's larger and the axle hub holes are the 4 smaller holes meant for screws that closely surround the center axle hole. It has 8 holes for the magnets and since we are stacking magnets we will also be stacking our magnet plates this ensures that the width of the laser cut acrylic magnet plates is the same width.
 ### Other Components
 
-#### Nuts & Bolts
+#### Nuts & Bolts & Standoffs
+For these we will be using the standard hex nuts, bolts, and standoffs that are provided for in the lab. Standoff are going to be pretty key in this project because many of are plates are significant distances away and they will have to be connected by a long series of standoffs. 
 
 
 #### Bearings
@@ -108,7 +109,7 @@ For this project we are going to have to have an axle of rotation and the best w
 
 ### program
 
-T
+
 
 <details>
 <summary>Code</summary>
@@ -135,6 +136,8 @@ T
 
 ```
 </details>
+
+#### Description
 
 	
 ## Physical Assembly
