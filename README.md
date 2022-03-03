@@ -117,7 +117,50 @@ For this project we are going to have to have an axle of rotation and the best w
 
 **Python** *Code*
 ```python
-#code goes here
+import adafruit_ssd1306
+import digitalio
+import board
+import busio
+import time
+import adafruit_ina260
+
+i2c = board.I2C()
+ina260 = adafruit_ina260.INA260(i2c)
+
+i2c = busio.I2C(board.SCL, board.SDA)
+from PIL import Image, ImageDraw, ImageFont
+reset_pin = digitalio.DigitalInOut(board.D24) # any pin!
+oled = adafruit_ssd1306.SSD1306_I2C(128, 64, i2c, addr = 0x3d, reset=reset_pin)
+
+
+oled.fill(0)
+oled.show()
+
+
+image = Image.new("1", (oled.width, oled.height))
+
+draw = ImageDraw.Draw(image)
+font = ImageFont.load_default()
+while True:
+
+    print("Current: %.2f Voltage: %.2f Power:%.2f"
+        %(ina260.current, ina260.voltage, ina260.power))
+    text = "Voltage:" + str(ina260.current / 4) 
+    (font_width, font_height) = font.getsize(text)
+    draw.text(
+    (0 + 20 , 0 + 20),
+    text,
+    font=font,
+    fill=255,
+)
+    print(ina260.current)
+
+    oled.image(image)
+    oled.show()
+    time.sleep(1)
+    draw.rectangle((0, 0, oled.width, oled.height), outline=0, fill=0)
+    oled.image(image)
+    oled.show
 
 ```
 </details>
