@@ -10,7 +10,7 @@
     + [Box Parts](https://github.com/lhange42/Capstone-Generator#box)
     + [Generator Parts](https://github.com/lhange42/Capstone-Generator#generator)
   * [Assembly](https://github.com/lhange42/Capstone-Generator#assembly)
-    + [Assebly](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#assembly)
+    + [Assembly](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#assembly)
   * [Other Components](https://github.com/lhange42/Capstone-Generator#assembly)	
     + [Nuts & Bolts](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#nuts--bolts)
     + [Bearings](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#bearings)
