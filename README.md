@@ -84,6 +84,8 @@ This is our magnet plate design we have the center holes for an axle and the axl
 
 #### Description
 
+This is a current setup of our assembly of course missing some components because they can't be added to onshape. You can see the series of standoffs, screws, and nuts those will be repeated in each corner. Some of the missing parts are the magnets, wire, axle rod, axle hub, and a bearing. You can also see that the coil goes through the holes of the Magnet Plate but that in our real version we are cutting off the excess rods on the coils which were only used to wrap it better. 
+
 ### Other Components
 
 #### Nuts & Bolts & Standoffs
