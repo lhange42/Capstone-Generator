@@ -64,7 +64,7 @@ This is going to be used to form our coils. They are constructible solenoids wit
 
 ##### Coil Plate
 <p float="left">
-	<img src="Media/CAD/Coil_Assembly.PNG" Height="200">
+	<img src="Media/CAD/Coil%20Plate.PNG" Height="200">
 
 </p>
 ###### Description
