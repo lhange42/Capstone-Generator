@@ -105,6 +105,10 @@ We will need bearings in order to have the axle also connected to the box sides 
 
 For this project we are going to have to have an axle of rotation and the best way of doing this is by ordering an actual axle. So for our design we need two axle hubs and one axle. The 2 axle hubs are going to be connected to each magnet plate so that they ensure that they spin with the axle. So how the axle hub works is that it is a ring that will surroind the axle and be screwed into whatever you are trying to get to spin with the axle and then the axle hub has a horizontal screw slot that screws against the axle holding it in place, it's called a set screw for that purpose.
 
+<p float="left">
+  <img src="Media/Components/AxleRod.PNG" height="250">
+  <img src="Media/Components/Axle_Hub.PNG" height="250">
+</p>
 
 ---
 
@@ -119,7 +123,7 @@ For this project we are going to have to have an axle of rotation and the best w
 
 
 
-### program
+### Voltage reader
 
 
 
@@ -181,7 +185,7 @@ while True:
 
 	
 ## Physical Assembly
-### Capsule
+### Generator
 	
 #### Inner Generator
 <p float="left">
