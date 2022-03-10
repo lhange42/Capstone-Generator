@@ -177,22 +177,7 @@ while True:
 ```
 </details>
 
-### Index
 
-
-	
-<details>
-<summary>Code</summary>
-<!--All you need is a blank line-->
-
-**Python** *Code*
-```python
-#code goes here
-
-```
-</details>
-
-#### Description
 
 	
 ## Physical Assembly
