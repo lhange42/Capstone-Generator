@@ -84,6 +84,7 @@ This is our magnet plate design we have the center holes for an axle and the axl
 	<img src="Media/CAD/Assembly1.PNG" Height="200">
 	<img src="Media/CAD/Assembly2.PNG" Height="200">
 	<img src="Media/CAD/Assembly3.PNG" Height="200">
+	<img src="Media/CAD/Assembly4.PNG" Height="200">
 
 </p>
 
