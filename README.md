@@ -58,6 +58,7 @@ A circuit divider basically is a system of two resistors in which if you positio
 	<img src="Media/CAD/Coil_Center.PNG" Height="200">
 </p>
 
+
 ###### Description
 
 This is going to be used to form our coils. They are constructible solenoids with detachable ends. We plan on them being attachable to drills so we can spin and coil the solenoid. Then once the coil is made and fastened together so it doesn’t become uncoiled we can detach the ends by rotating them until the slot lines up and then its just constructed around the center that we can detach.
@@ -67,8 +68,9 @@ This is going to be used to form our coils. They are constructible solenoids wit
 	<img src="Media/CAD/Coil%20Plate.PNG" Height="200">
 
 </p>
-###### Description
 
+###### Description
+The Coil Plate is the stator in our generator and will be the center between two magnet plates. It is friction fitting the coils into the plate. These will be where the electricity is induced in our generator.
 
 ##### Magnet Plate
 <p float="left">
