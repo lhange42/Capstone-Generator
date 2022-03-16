@@ -50,6 +50,27 @@ A circuit divider basically is a system of two resistors in which if you positio
 
 ### Parts
 #### Box
+
+##### Box Without Pi Mount
+
+<p float="left">
+	<img src="Media/CAD/BoxNoPi.PNG" Height="200">
+</p>
+
+###### Description
+
+This is the wall of the box this is only on one side of the generator. This side will be the one without the pi mount. the hole directly in the center is meant for bearings. The 4 holes in the corners is meant for screws to connect standoffs that will connect this wall to one of the coil plates.
+
+##### Box With Pi Mount
+
+<p float="left">
+	<img src="Media/CAD/BoxPi.PNG" Height="200">
+</p>
+
+###### Description
+
+This one is slightly different because you can see the mount where the pi will be attatched. This also has four holes in the corners of the rectangular pi plate this is going to be used for standoffs to connect the breadboard plate so it will be a layered and be able to be right next to the coils. This has the seem other layout of the Box wall with no Pi mount with the central hole for bearings and the other holes for connecting to the coil plate with standoffs. 
+
 #### Generator
 ##### Coil Mold
 <p float="left">
