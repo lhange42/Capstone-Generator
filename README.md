@@ -71,6 +71,16 @@ This is the wall of the box this is only on one side of the generator. This side
 
 This one is slightly different because you can see the mount where the pi will be attatched. This also has four holes in the corners of the rectangular pi plate this is going to be used for standoffs to connect the breadboard plate so it will be a layered and be able to be right next to the coils. This has the seem other layout of the Box wall with no Pi mount with the central hole for bearings and the other holes for connecting to the coil plate with standoffs. 
 
+##### Bread Board Platform
+
+<p float="left">
+	<img src="Media/CAD/BreadBoardPlatform.PNG" Height="200">
+</p>
+
+###### Description
+
+This is quite a simple piece but it has invaluable job of holding the breadboard which will be where all the coils voltage is being read and sent to the pi. It will be elevated from the box wall with the pi by standoffs and will practically sit on level with the center of the coils. This position is perfect in acheiving simple wiring which is always a plus.
+
 #### Generator
 ##### Coil Mold
 <p float="left">
