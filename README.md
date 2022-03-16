@@ -50,7 +50,7 @@ A circuit divider basically is a system of two resistors in which if you positio
 
 Rectifiers are a set up of diodes that only let the positive voltage pass throuhg turning your AC current into DC current. A diode is simply an electric component that has bery high resistance in one direction and particularly low resistance in the other. We are specifically using a bridge rectifier which shown in the diagram below is a series of 4 diodes in a dimaond shape the direction of all of them is facing the positive output. In the diagram you can see how the AC input would be alternating and be connected to the rectifier in between the top diodes and inbetweent he bottom diodes. The negative output is taken from the left diode which are both pointing away from that outpoint and the positive is taken from the right that has the diodes pointing to it.
 <p float="left">
-	<img src="Media/Planning/RectifierDiagram.PNG" Height="200">
+	<img src="Media/Planning/RectifierDiagram.png" Height="200">
 </p>
 
 
