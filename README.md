@@ -46,6 +46,12 @@ Magnetic induction is how we are going to produce voltage with our generator. Ma
 #### Circuit Divider
 A circuit divider basically is a system of two resistors in which if you position the wires correctly,  one between the resistors and one after the second one,  that the voltage going through those wires will be less than the voltage in the whole circuit, and as you change the ratio of the resistors the amount that the voltage is divided by is increased. To divide your voltage by the greatest amount you want to make the first resistor a lot larger than the second resistor. We are planning on testing our generator and finding out the maximum voltage then setting up a circuit divider that will guarantee a voltage under 5V so the pi can read it, since the pi only reads 0V to 5V, and to compensate the voltage divider we will just multiply the value read by the value that voltage divider divides it by to return it to its true voltage. A circuit divider is going to be mandatory for the methodology of our project we are going to need to be able to read the voltage of the generator in some form that will communicate with the pi because it’s the focus of the coding part of our project. 
 
+#### Rectifier
+
+Rectifiers are a set up of diodes that only let the positive voltage pass throuhg turning your AC current into DC current. A diode is simply an electric component that has bery high resistance in one direction and particularly low resistance in the other. We are specifically using a bridge rectifier which shown in the diagram below is a series of 4 diodes in a dimaond shape the direction of all of them is facing the positive output. In the diagram you can see how the AC input would be alternating and be connected to the rectifier in between the top diodes and inbetweent he bottom diodes. The negative output is taken from the left diode which are both pointing away from that outpoint and the positive is taken from the right that has the diodes pointing to it.
+<p float="left">
+	<img src="Media/Planning/RectifierDiagram.PNG" Height="200">
+</p>
 
 
 
