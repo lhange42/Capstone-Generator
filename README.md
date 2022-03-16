@@ -14,15 +14,13 @@
   * [Other Components](https://github.com/lhange42/Capstone-Generator#assembly)	
     + [Nuts & Bolts](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#nuts--bolts)
     + [Bearings](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#bearings)
-    + [Steel Rod](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#steel-rod)
-    + [Steel Rod](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#steel-rod)
+    + [Axle & Axle Hub](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#axle--axle-hubs)
+
 - [Code](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#code)
-  * [FuncAngleOMeter](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#funcangleometer)
-  * [Index](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#index)
-  * [Get Angle Test](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#get-angle-test)
+  * [Voltage Reader](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#voltage-reader)
 - [Physical Assembly](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#physical-assembly)
-  * [Capsule](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#capsule)
-  * [Trebuchet](https://github.com/omckenn37/EG4_Trebuchet/blob/main/README.md#trebuchet)
+  * [Generator](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#generator-1)
+  * [Box](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#box-1)
 - [Results and Overall Reflections](https://github.com/lhange42/Capstone-Generator/blob/main/README.md#results-and-overall-reflections)
 
 ## Generator Design
