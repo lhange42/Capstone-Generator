@@ -88,7 +88,7 @@ This one is slightly different because you can see the mount where the pi will b
 
 ###### Description
 
-This is quite a simple piece but it has invaluable job of holding the breadboard which will be where all the coils voltage is being read and sent to the pi. It will be elevated from the box wall with the pi by standoffs and will practically sit on level with the center of the coils. This position is perfect in acheiving simple wiring which is always a plus.
+This is quite a simple piece but it has invaluable job of holding the breadboard which will be where all the coils voltage is being read and sent to the pi. It will be elevated from the box wall with the pi by standoffs and will practically sit on level with the center of the coils. This position is perfect in acheiving simple wiring which is always a plus. The Bread Board itself has a sticky bottom which allows it to stick to the bottom and we won't need to screw it down or anything.
 
 #### Generator
 ##### Coil Mold
