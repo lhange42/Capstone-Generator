@@ -25,7 +25,7 @@ draw = ImageDraw.Draw(image)
 font = ImageFont.load_default()
 while True:
 
-    print("Current: %.2f Voltage: %.2f Power:%.2f"
+    print("Current: %.2f Voltage: %.2f Power:%.2f"# prints the current, voltage, and power
         %(ina260.current, ina260.voltage, ina260.power))
     text = "Voltage:" + str(ina260.current / 4) 
     (font_width, font_height) = font.getsize(text)
@@ -34,12 +34,12 @@ while True:
     text,
     font=font,
     fill=255,
-)
+)# this is all the formatting for the OLED text display. It displays the current/4 because that's the resistors affect
     print(ina260.current)
 # Display image
     oled.image(image)
     oled.show()
     time.sleep(1)
-    draw.rectangle((0, 0, oled.width, oled.height), outline=0, fill=0)
+    draw.rectangle((0, 0, oled.width, oled.height), outline=0, fill=0)# clears the Display
     oled.image(image)
     oled.show
