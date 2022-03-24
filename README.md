@@ -234,17 +234,14 @@ This is the code for our project. It involves an ina 260 which can read current,
 	
 #### Inner Generator
 <p float="left">
-  <img src="media/CapsulePhysicalAssembly1.png" height="250">
-  <img src="media/CapsulePhysicalAssembly2.png" height="250">
-  <img src="media/CapsulePhysicalAssembly3.png" height="250">
+  <img src="Media/Physical%20Assembly/CoilPlate1P.PNG" height="200">
+  <img src="Media/Physical%20Assembly/CoilPlate2P.PNG" height="200">
+  <img src="Media/Physical%20Assembly/MagnetPlateP.PNG" height="200">
 </p>
 
-	
-#### part 1
-<img src="media/Top_Circle_Printed.png" height="300">
-	
+		
 #### Components of the generator
-<img src="media/PiCapsule.png" Height="300">	
+<img src="Media/Physical%20Assembly/CoilP.PNG" Height="300">	
 
 ### box
 
