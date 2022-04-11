@@ -237,10 +237,11 @@ This is the code for our project. It involves an ina 260 which can read current,
   <img src="Media/Physical%20Assembly/CoilPlate1P.PNG" height="200">
   <img src="Media/Physical%20Assembly/CoilPlate2P.PNG" height="200">
   <img src="Media/Physical%20Assembly/MagnetPlateP.PNG" height="200">
+  <img src="Media/Physical%20Assembly/CoiledCoilPlate.PNG" height="200">
 </p>
 
 ##### Description
-These are all the plates of our inner generator. The 1 on the left and the one in the middle are the coil plates whihc will be mounted and holding in the solenoids in the center of our generator. These got printed perfectly and we prototyped the size to make sure the solenoids would fit. The one on the right is one of our magnet plates that is a stack of two plates holding two disc magnets in each slot. These are all friction fit. You can see white coverings on some of the magnets this is something it came with and has helped us sepearte the magents when they get stuck together and since these are very powerful it will add a bit of cushion if magnets fly towards eachother.
+These are all the plates of our inner generator. The 1 on the left and the one in the middle are the coil plates whihc will be mounted and holding in the solenoids in the center of our generator. These got printed perfectly and we prototyped the size to make sure the solenoids would fit. The one on the right is one of our magnet plates that is a stack of two plates holding two disc magnets in each slot. These are all friction fit. You can see white coverings on some of the magnets this is something it came with and has helped us sepearte the magents when they get stuck together and since these are very powerful it will add a bit of cushion if magnets fly towards eachother. You can also see our coil plate with actual coils in it and this is before all the wire are sorted but shows the setup.
 
 #### Components of the generator
 <img src="Media/Physical%20Assembly/CoilP.PNG" Height="300">	
