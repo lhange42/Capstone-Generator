@@ -247,7 +247,7 @@ These are all the plates of our inner generator. The 1 on the left and the one i
 <img src="Media/Physical%20Assembly/CoilP.PNG" Height="300">	
 
 ##### Description
-This is one of our coils it a 3D printed core with laser cut outer walls.
+This is one of our coils it a 3D printed core with laser cut outer walls. We wrapped them with magnet wire to induce electricity. We have 8 of these set up in a circle to make our inner generator.
 
 ### box
 
