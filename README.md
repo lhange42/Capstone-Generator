@@ -33,7 +33,8 @@
 
 ### Description of Assembly
 
-The first picture on the left is showing the center of the generator which will be composed of two laser cut plates and 8 solenoids. These solenoids will be held in place by the circular slots in the laser cut piece that will equal the radius of the smaller section of the solenoid. However, this plan is one of the first ideas and our new idea is to make a friction fit layer of three plates that will hold 8 coils; we are doing this to create less separation between the magnets and the coils. The two laser-cut plates will be screwed together so the solenoids are tightly held in between them. The second picture is a sheet of laser cut material and the thickness of the laser cut material is the exact same as the magnets so this will make it easy to stack plates to make our magnets securely harnessed. In terms of generator diction, our center ring of coils will bet the stator of the generator since it’s stationary and just harnessing power while the ring of magnets is going to be the rotor since it will be attached to the rotating axis and spinning with it.
+The first picture on the left is showing the center of the generator which will be composed of two laser cut plates and 8 solenoids. These solenoids will be held in place by the circular slots in the laser cut piece that will equal the radius of the smaller section of the solenoid. However, this plan is one of the first ideas and our new idea is to make a friction fit layer of three plates that will hold 8 coils; we are doing this to create less separation between the magnets and the coils. The two laser-cut plates will be screwed together so the solenoids are tightly held in between them. The second picture is a sheet of laser cut material and the thickness of the laser cut material is the exact same as the magnets so this will make it easy to stack plates to make our magnets securely harnessed. In terms of generator diction, our center ring of coils will be the stator of the generator since it’s stationary and just harnessing power while the ring of magnets is going to be the rotor since it will be attached to the rotating axis and spinning with it. These generator will be 2 phase which means that their are two circuits that our generator will be divided into. The reason this is, is because our ring of magnets will be alteranting poles so each coil will be experiencing the opposite poles of the one next to it this is why it's an alternating current. So Coil 1,3,5,7 will be connected and coil 2,4,6,8 will be connected
+
 
 ### Research
 #### Magnetic Induction
@@ -44,7 +45,7 @@ Magnetic induction is how we are going to produce voltage with our generator. Ma
 </p>
 
 #### Circuit Divider
-A circuit divider basically is a system of two resistors in which if you position the wires correctly,  one between the resistors and one after the second one,  that the voltage going through those wires will be less than the voltage in the whole circuit, and as you change the ratio of the resistors the amount that the voltage is divided by is increased. To divide your voltage by the greatest amount you want to make the first resistor a lot larger than the second resistor. We are planning on testing our generator and finding out the maximum voltage then setting up a circuit divider that will guarantee a voltage under 5V so the pi can read it, since the pi only reads 0V to 5V, and to compensate the voltage divider we will just multiply the value read by the value that voltage divider divides it by to return it to its true voltage. A circuit divider is going to be mandatory for the methodology of our project we are going to need to be able to read the voltage of the generator in some form that will communicate with the pi because it’s the focus of the coding part of our project. 
+A circuit divider basically is a system of two resistors in which if you position the wires correctly,  one between the resistors and one after the second one,  that the voltage going through those wires will be less than the voltage in the whole circuit, and as you change the ratio of the resistors the amount that the voltage is divided by is increased. To divide your voltage by the greatest amount you want to make the first resistor a lot larger than the second resistor. We are planning on testing our generator and finding out the maximum voltage then setting up a circuit divider that will guarantee a voltage under 5V so the pi can read it, since the pi only reads 0V to 5V, and to compensate the voltage divider we will just multiply the value read by the value that voltage divider divides it by to return it to its true voltage. A circuit divider is going to be mandatory for the methodology of our project we are going to need to be able to read the voltage of the generator in some form that will communicate with the pi because it’s the focus of the coding part of our project. Thankfully we found a adafruit device that allows us to read higher volts but this was still a valuable idea that we learned and I think is important.
 
 #### Rectifier
 
@@ -249,20 +250,20 @@ These are all the plates of our inner generator. The 1 on the left and the one i
 ##### Description
 This is one of our coils it a 3D printed core with laser cut outer walls. We wrapped them with magnet wire to induce electricity. We have 8 of these set up in a circle to make our inner generator.
 
-### box
+### Box
 
 
 <p float="left">
 <img src="media/tr1.JPG" height="250">
 <img src="media/tr2.JPG" height="250">
-<img src="media/tr3.JPG" height="250">
-<img src="media/tr4.JPG" height="250">
-<img src="media/tr5.JPG" height="250">
-<img src="media/tr6.JPG" height="250">
-<img src="media/tr7.JPG" height="250">
-
 </p>
-	
+
+#### Box With Pi
+This is the Box face that will have the pi connected by standoffs and another three stack of standoffs that will be attatched to a laser cut platform for our bread board to sit on so that the T-cobbler can just connect up to the breadboard. This will also of course be connected to the coil plates to keep it in the central location and this will be a height of two standoffs. The center hole is meant for a bearing that will attatch the axle. This bearing is needed for the axis to have free rotation. The magnet plate will be attatched by an axle hub and will be between the coil plate and the box face.
+
+#### Box Without Pi
+This is a relatively simple box face that will do relatively the same hing as the previous one it just doesn't also hold the pi.
+
 ## Results and Overall Reflections
 	
 
