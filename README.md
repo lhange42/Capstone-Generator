@@ -264,6 +264,11 @@ This is the Box face that will have the pi connected by standoffs and another th
 #### Box Without Pi
 This is a relatively simple box face that will do relatively the same hing as the previous one it just doesn't also hold the pi.
 
+#### Box with Coils in between
+<p float="left">
+  <img src="Media/Physical%20Assembly/CoilAndBoxes.PNG" height="200">
+</p>
+
 ## Results and Overall Reflections
 	
 
