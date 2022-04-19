@@ -264,11 +264,12 @@ This is the Box face that will have the pi connected by standoffs and another th
 #### Box Without Pi
 This is a relatively simple box face that will do relatively the same hing as the previous one it just doesn't also hold the pi.
 
-#### Box with Coils in between
+#### Box Assembled
 <p float="left">
   <img src="Media/Physical%20Assembly/CoilAndBoxes.PNG" height="200">
 </p>
-
+##### 
+The first pciture is of the Box faces with just the coils. This helps show the layers of our assembly. These are all the stationary components of the assembly.
 ## Results and Overall Reflections
 	
 
