@@ -254,7 +254,7 @@ This is one of our coils it a 3D printed core with laser cut outer walls. We wra
 
 <p float="left">
   <img src="Media/Physical%20Assembly/FaceViewGenerator.PNG" height="200">
-  <img src="Media/Physical%20Assembly/SideViewGenerator.PNG>
+  <img src="Media/Physical%20Assembly/SideViewGenerator.PNG" height="200">
   <img src="Media/Physical%20Assembly/TopViewGenerator.PNG" height="200">
 </p>
 
