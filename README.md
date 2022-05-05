@@ -250,6 +250,14 @@ These are all the plates of our inner generator. The 1 on the left and the one i
 ##### Description
 This is one of our coils it a 3D printed core with laser cut outer walls. We wrapped them with magnet wire to induce electricity. We have 8 of these set up in a circle to make our inner generator.
 
+#### Full Generator
+
+<p float="left">
+  <img src="Media/Physical%20Assembly/FaceViewGenerator.PNG" height="200">
+  <img src="Media/Physical%20Assembly/SideViewGenerator.PNG>
+  <img src="Media/Physical%20Assembly/TopViewGenerator.PNG" height="200">
+</p>
+
 ### Box
 
 
@@ -267,6 +275,7 @@ This is a relatively simple box face that will do relatively the same hing as th
 #### Box Assembled
 <p float="left">
   <img src="Media/Physical%20Assembly/CoilAndBoxes.PNG" height="200">
+  
 </p>
 ##### 
 The first pciture is of the Box faces with just the coils. This helps show the layers of our assembly. These are all the stationary components of the assembly.
