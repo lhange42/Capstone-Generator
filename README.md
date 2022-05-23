@@ -229,7 +229,8 @@ while True:
 #### Description
 
 This is the code for our project. It involves an ina 260 which can read current, voltage, and power. This allows us to read the voltage of our generator. Our other electrical component is a OLED display so we can display the voltage. One problem we ran into is the Ina260 was only reading current but we did a few tests with different voltage batteries and found that if we divided the current by 4 we would get the voltage and that 4 was just specifically for the resistor we used.
-	
+---
+
 ## Physical Assembly
 ### Generator
 	
