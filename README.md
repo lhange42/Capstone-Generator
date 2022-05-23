@@ -261,10 +261,6 @@ This is one of our coils it a 3D printed core with laser cut outer walls. We wra
 ### Box
 
 
-<p float="left">
-<img src="media/tr1.JPG" height="250">
-<img src="media/tr2.JPG" height="250">
-</p>
 
 #### Box With Pi
 This is the Box face that will have the pi connected by standoffs and another three stack of standoffs that will be attatched to a laser cut platform for our bread board to sit on so that the T-cobbler can just connect up to the breadboard. This will also of course be connected to the coil plates to keep it in the central location and this will be a height of two standoffs. The center hole is meant for a bearing that will attatch the axle. This bearing is needed for the axis to have free rotation. The magnet plate will be attatched by an axle hub and will be between the coil plate and the box face.
