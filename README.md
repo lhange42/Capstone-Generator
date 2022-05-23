@@ -273,8 +273,8 @@ This is a relatively simple box face that will do relatively the same hing as th
   <img src="Media/Physical%20Assembly/CoilAndBoxes.PNG" height="200">
   
 </p>
-##### 
+##### Description
 The first pciture is of the Box faces with just the coils. This helps show the layers of our assembly. These are all the stationary components of the assembly.
-## Results and Overall Reflections
+
 	
 
