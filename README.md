@@ -55,7 +55,7 @@ Rectifiers are a set up of diodes that only let the positive voltage pass throuh
 </p>
 
 
-
+---
 ## CAD
 
 ### Parts
@@ -154,9 +154,9 @@ For this project we are going to have to have an axle of rotation and the best w
   <img src="Media/Components/Axle_Hub.PNG" height="250">
 </p>
 
+
+
 ---
-
-
 ## Code
 
 
@@ -229,8 +229,8 @@ while True:
 #### Description
 
 This is the code for our project. It involves an ina 260 which can read current, voltage, and power. This allows us to read the voltage of our generator. Our other electrical component is a OLED display so we can display the voltage. One problem we ran into is the Ina260 was only reading current but we did a few tests with different voltage batteries and found that if we divided the current by 4 we would get the voltage and that 4 was just specifically for the resistor we used.
----
 
+---
 ## Physical Assembly
 ### Generator
 	
